@@ -48,6 +48,8 @@
 
 ## TODO
 
+1. utiliser plutôt une notion de tâche pour gérer l'asynchrone (`NtroTask`)
+
 1. renommage: `NtroView`, `NtroModel`, `NtroApp`, `NtroMessage`
 
 1. découper ainsi:
